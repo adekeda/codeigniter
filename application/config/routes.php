@@ -56,3 +56,6 @@ $route['translate_uri_dashes'] = FALSE;
 //tambah route baru untuk contact dan about us
 $route['about'] = 'welcome/about';
 $route['contact'] = 'Welcome/contact';
+
+//tambah route baru untuk overview
+$route['admin'] = 'admin/overview';
